@@ -1,0 +1,63 @@
+CSS(cascading style sheets):
+===========
+definition:
+using css application we apply styles to web pages
+basically it follows the given syntax:
+selector{ property : value1, property2 : value2}
+         ==================  ===================
+        called declaration1  called declaration2
+
+css basically classified into 3 types,they are:
+1.inline style sheets
+2.internal style sheets or embedded style sheets
+3.external style sheets
+
+inline style sheets:
+==============
+inline style sheets is a concept for apply styles for existing 
+apply each element with inline style sheets concept
+
+In the market we have lot of css applications available ,they are:
+1.css
+2.tailwind
+3.bootstrap
+4.angular cli(angular js)
+5.material UI(react js)
+6.ant-design
+
+2.internal style sheets or embedded style sheets:
+===============================
+apply styles in head section is simply we called internal style sheet concept
+it follows the given syntax:
+<head>
+<style>
+/*internal style sheets */
+</style>
+</head>
+3.external style sheets:
+==================
+in css exernal style sheet contains a unique code externally exist.add external code into html vode is called as external stye sheet concept.
+note:save external code as with .css extension
+finally we add external code into html code with the help of <link> tag
+
+types of selectors in css:
+======================
+in css there are mainly 5 types of selectors,they are:
+1.element selector(<p>)
+2.groupnselector(h1,h2,p)
+3.universal selector(*)
+4.class selector(clas="classname")
+5.id selector(id="idname")
+
+class selector:
+note: if we add class selecor user need to 
+
+id selector in css:
+note:if we add styles 
+
+
+bootstrap:
+extension for cascading style sheets
+basically bootstrap contains CDN(content delivery network)
+
+the above simply added into our html code

@@ -1,0 +1,7 @@
+/*comment in css*/
+h2 {
+    color:rgb(168, 43, 226);
+    text-transform: capitalize;
+    text-align: center;
+    text-indent: 100px;
+}

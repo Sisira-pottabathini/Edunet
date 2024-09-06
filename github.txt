@@ -1,0 +1,23 @@
+git hub:
+used for to store our projects in real time
+before we execute github ,internally in our local system or laptop we use to download gitand setup applcation software
+
+git basic commands:
+get init:
+used for to initialise git local repository
+
+git status: used for to check the status of the projectsgit add:used for to add existing projects into local repositorygi commit -m "first commit"
+used for to commit from untracked filesintotracked files,now these files are ready to send in remote repository
+
+git remote add origin(github url):
+used foradd local repository into remote repository
+
+git push(github url):
+used for push all the commited project data into github remote reposittory 
+
+github
+gitlab
+gitbucket
+multiple version control systems are available in market
+
+ My github url link: https://github.com/Sisira-pottabathini/Edunet.git (central github link)

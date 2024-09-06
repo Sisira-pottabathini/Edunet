@@ -1,0 +1,115 @@
+html5 - has new feautures like vedio ,audio,graphics ,where before html4 does not have that feautures 
+in head tag - we write javascript code functions ,css style code 
+meta - all html related code generated in one format(utf-8 encrypt code to browser which rendered)
+
+importance of head tag- 
+ -include meta tag
+ -include title
+ -include javascript code
+ -include vbscript code
+ -include css code
+ -include external links
+
+html-
+ -it is hypertext markup language used for to develop static web pages
+ -html is a basic program to learn other web programming languages
+
+ html suppor 2 types tags-
+ -they are
+ 1)paired tags(ex:<html>(opening)</html>(closing))
+ 2)unpaired tags(ex:<hr>,<br>)
+
+basic html progra:
+===========
+it follows the given tags
+1)<html>
+2)<head>
+3)<title>
+4)<body>
+
+simple example program:
+============
+day1.html
+=======
+<html>
+<head>
+<tite>edunet</title>
+</head>
+<body>
+<h1>welcome to html</h1>
+</body>
+</html>
+
+comment line:
+<!--the basic html code-->
+
+note:
+html support proper and improper nesting mechanism
+
+marquee tag:
+this tag is for text scrolling (left-right,right-left,etc)
+
+formatting tags:
+html supports basically two types of formatting tags 
+1)physical tags
+2)logical tags or semantic tags
+
+list in html program:
+==============
+3 types
+1)order list
+2)unorder list
+3)definition list
+
+unorderlist:
+=======
+also called as bullet list
+circle
+square
+desc
+etc...
+
+anchor tag or hyperlink
+
+image tag:
+===========
+images are different types of extensions
+1.jpg or jpeg(joint photographic images)
+2.gif(graphical interchange format)
+3.bmp(bitmap images)
+
+table tag:
+========
+
+form tag:
+note:<form> tag consist multiplle other elements,they are
+1.textbox
+2.checkbox
+3.radio
+4.textarea box
+5.submit
+6.reset
+7.selection box
+8.password
+9.number
+10.label
+etc
+
+div and span tag in html:
+div tag is used for to write content in block
+same as span tag as well
+
+but only the difference is span exist inside of the div tag only
+
+logical or semantic tags in html
+
+vedio tag
+audio tag
+vector 
+
+hands on activity 
+1.audio and vedio file
+2.bank login pages
+
+
+

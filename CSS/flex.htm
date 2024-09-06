@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>flex</title>
+    <style>
+        #container {
+            display: flex;
+            flex-direction: row-reverse;
+            flex-wrap: wrap;
+        }
+        .child {
+            color: aqua;
+            width: 100px;
+            height: 100px;
+        }
+        .child1 {
+            color: blueviolet;
+            width: 100px;
+            height: 100px;
+        }
+        .child2 {
+            color: blue;
+            width: 100px;
+            height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+    <div class="child">Flex-Item1</div>
+    <div class="child1">Flex-Item2</div>
+    <div class="child2">Flex-Item3</div>
+    <div class="child">Flex-Item1</div>
+    <div class="child1">Flex-Item2</div>
+    <div class="child2">Flex-Item3</div>
+    </div>
+</body>
+</html>
